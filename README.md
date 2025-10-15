@@ -1,6 +1,6 @@
 # OIBSIP_dataanalytics_05
 
-# 🔒 Task 7: Credit Card Fraud Detection (Imbalanced Classification)
+# 🔒 Task 5: Credit Card Fraud Detection (Imbalanced Classification)
 
 ## **Internship**
 **Oasis Infobyte** - Data Science Internship (Virtual)
